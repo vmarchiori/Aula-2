@@ -1,1 +1,1 @@
-# Aula-2
+# A2-Econometria-Avancada
